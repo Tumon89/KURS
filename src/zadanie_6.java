@@ -8,9 +8,9 @@ public class zadanie_6 {
         int y = in.nextInt();
         System.out.println("Введите число z: ");
         int z = in.nextInt();
-        int arif = (x+y+z)/3;
+        double arif = (x+y+z)/3;
         System.out.println(arif);
-        int del = arif/2;
+        double del = arif/2;
         System.out.println(del);
         if (del > 3)
             System.out.println("Программа выполнена корректно");
