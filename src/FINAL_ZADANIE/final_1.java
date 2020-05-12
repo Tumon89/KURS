@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class final_1 {
     public static void main (String agrs[]) {
+
         Scanner in = new Scanner(System.in);
         System.out.println("Введите число в бинарном формате: ");
         String binNum = in.nextLine();
