@@ -15,5 +15,6 @@ public class final_1 {
         }
         int number = y;
         System.out.println(number);
+        
     }
 }

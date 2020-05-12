@@ -24,7 +24,6 @@ public class final_2 {
         insertSort(massive);
     }
 
-
     public static void insertSort (int[] SortMass){
         System.out.println("Start Sort:");
         int min;
